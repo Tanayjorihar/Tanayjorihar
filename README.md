@@ -78,9 +78,9 @@
 ### 🔐 Cybersecurity Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali" />
-</p>
+<!-- </p>
 
-<p align="center">
+<p align="center"> -->
   <img src="https://cdn.simpleicons.org/nmap" height="50"/>
   <img src="https://cdn.simpleicons.org/wireshark" height="50"/>
   <img src="https://cdn.simpleicons.org/burpsuite" height="50"/>

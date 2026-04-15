@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
 ---
@@ -43,56 +43,37 @@
 
 ---
 
-## 🔥 Projects
-
-### 🏢 Enterprise Systems
-- Liquor Management System  
-- Auction Management System (WhatsApp Integration)  
-- Society Management System  
-- University Management System (NEP-2020)  
-
-### 🛡️ Cybersecurity
-- 🎣 Phishing Awareness Demo  
-- 🔑 Password Strength Checker  
-- 🔍 Web Application Security Assessment  
-
----
-
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,python,java,cpp,html,css" />
-  <img src="https://cdn.simpleicons.org/apache" height="50"/>
 </p>
+
+---
 
 ### ⚙️ Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,react,nodejs" />
 </p>
 
+---
+
 ### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
-### 🔐 Cybersecurity Tools
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali" />
- </p>
+---
 
+### 🔐 Cybersecurity Tools
 <p align="center">
-  <img src="https://cdn.simpleicons.org/nmap" height="50"/>
-  <img src="https://cdn.simpleicons.org/wireshark" height="50"/>
-  <img src="https://cdn.simpleicons.org/burpsuite" height="50"/>
-  <img src="https://cdn.simpleicons.org/apache" height="50"/>
-</p> -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="50" title="Linux" style="margin: 10px"/>
-  <img src="https://cdn.simpleicons.org/wireshark" height="50" title="Wireshark" style="margin: 10px"/>
-  <img src="https://skillicons.dev/icons?i=kali" height="50" title="Kali Linux" style="margin: 10px"/>
-  <img src="https://cdn.simpleicons.org/burpsuite" height="50" title="Burp Suite" style="margin: 10px"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="50" title="Linux"/>
+  <img src="https://cdn.simpleicons.org/wireshark" height="50" title="Wireshark"/>
+  <img src="https://skillicons.dev/icons?i=kali" height="50" title="Kali Linux"/>
+  <img src="https://cdn.simpleicons.org/burpsuite" height="50" title="Burp Suite"/>
 </p>
+
 ---
 
 ### ☁️ Cloud & Tools
@@ -120,6 +101,58 @@ OWASP Top 10 • Secure SDLC • VAPT • Authentication Security
 
 ---
 
+## 🔥 Featured Projects
+
+### 🎣 Phishing Awareness Demo  
+→ Simulates real-world phishing attacks to educate users  
+→ Demonstrates social engineering & prevention techniques  
+→ 🔗 <a href="#" target="_blank">View Repository</a>
+
+---
+
+### 🔑 Password Strength Checker  
+→ Real-time password validation tool  
+→ Promotes secure authentication practices  
+→ 🔗 <a href="#" target="_blank">View Repository</a>
+
+---
+
+### 🔍 Web Application Security Assessment  
+→ Conducted VAPT using **Nmap & Nikto**  
+→ Identified vulnerabilities & improved security posture  
+→ 🔗 <a href="#" target="_blank">View Details</a>
+
+---
+
+### 🏢 Enterprise Systems (Professional Work)  
+→ Developed secure systems using **PHP & Laravel**  
+→ Implemented authentication, RBAC & session security  
+→ Built real-world platforms (Inventory, Auction, Society, University)  
+→ ⚠️ Code not public (company projects)
+
+---
+
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tanay-jorihar&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Developer Mindset
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanay-jorihar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/tanay-jorihar-352b00268/" target="_blank" rel="noopener noreferrer">
@@ -139,5 +172,6 @@ OWASP Top 10 • Secure SDLC • VAPT • Authentication Security
 ---
 
 <p align="center">
-  <i>“Build Secure. Think Like an Attacker. Defend Like an Analyst.”</i>
+  <b>🔐 From Building Systems → Securing Systems</b><br><br>
+  <i>“Think like an attacker. Build like a defender.”</i>
 </p>

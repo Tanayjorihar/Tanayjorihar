@@ -106,14 +106,14 @@ OWASP Top 10 • Secure SDLC • VAPT • Authentication Security
 ### 🎣 Phishing Awareness Demo  
 → Simulates real-world phishing attacks to educate users  
 → Demonstrates social engineering & prevention techniques  
-→ 🔗 <a href="#" target="_blank">View Repository</a>
+→ 🔗 <a href="[#](https://github.com/Tanayjorihar/phishing-awareness-demo.git)" target="_blank">View Repository</a>
 
 ---
 
 ### 🔑 Password Strength Checker  
 → Real-time password validation tool  
 → Promotes secure authentication practices  
-→ 🔗 <a href="#" target="_blank">View Repository</a>
+→ 🔗 <a href="https://github.com/Tanayjorihar/Password_Checker.git" target="_blank">View Repository</a>
 
 ---
 
@@ -134,7 +134,7 @@ OWASP Top 10 • Secure SDLC • VAPT • Authentication Security
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanay-jorihar&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Tanayjorihar&theme=tokyonight" />
 </p>
 
 ---

@@ -87,7 +87,7 @@
   <img src="https://cdn.simpleicons.org/apache" height="50"/>
 </p> -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" title="Linux" style="margin: 10px"/>
+  <img src="https://skillicons.dev/icons?i=linux,kali" height="50" title="Linux" style="margin: 10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="50" title="Wireshark" style="margin: 10px"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" height="50" title="Kali Linux" style="margin: 10px"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" height="50" title="Burp Suite" style="margin: 10px"/>

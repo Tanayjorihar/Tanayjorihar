@@ -62,7 +62,8 @@
 
 ### 👨‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,python,java,cpp,html,css,apache" />
+  <img src="https://skillicons.dev/icons?i=php,js,python,java,cpp,html,css" />
+  <img src="https://cdn.simpleicons.org/apache" height="50"/>
 </p>
 
 ### ⚙️ Frameworks
@@ -89,7 +90,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="50" title="Linux" style="margin: 10px"/>
   <img src="https://cdn.simpleicons.org/wireshark" height="50" title="Wireshark" style="margin: 10px"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="50" title="Kali Linux" style="margin: 10px"/>
+  <img src="https://skillicons.dev/icons?i=kali" height="50" title="Kali Linux" style="margin: 10px"/>
   <img src="https://cdn.simpleicons.org/burpsuite" height="50" title="Burp Suite" style="margin: 10px"/>
 </p>
 ---

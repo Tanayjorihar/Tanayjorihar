@@ -116,7 +116,7 @@ OWASP Top 10 • Secure SDLC • VAPT • Authentication Security
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/tanay-jorihar-352b00268/" target = "_blank">
+<a href="https://www.linkedin.com/in/tanay-jorihar-352b00268/" target="_blank" rel="noopener noreferrer">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="mailto:developertanay@gmail.com">
